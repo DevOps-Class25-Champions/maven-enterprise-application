@@ -14,7 +14,7 @@
   
   <properties>
 	<!-- versions -->
-	<sonar.host.url>http://3.132.212.149:8800/manager/html</sonar.host.url>
+	<sonar.host.url>http://18.116.46.15:9010/</sonar.host.url>
 	 <sonar.login>admin</sonar.login>
 	<sonar.password>admin</sonar.password>
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
